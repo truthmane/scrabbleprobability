@@ -1,0 +1,1 @@
+From the terminal, run python3 WaysToDrawNew.py with the following parameters, in order: quantity of alphagrams, starting alphagram, alphagram length. For example, running 'python3 WaysToDrawNew.py 1000 100 8' would return the statistics regarding the 100th to 1100th length-8 alphagrams in the NWL lexicon. Support for CSW coming soon!
